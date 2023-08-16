@@ -59,8 +59,8 @@ scope:
         - l: "<folder>"
           e: Vuex Store Module...
       - l: App.vue
-        e: Root Vue component of your App
-    - l: index.html
+      e: Root Vue component of your App
+      - l: index.template.html
       e: Template for index.html
     - l: src-ssr/
       e: SSR specific code (like production Node webserver)
